@@ -1,0 +1,18 @@
+{
+  "name": "electron_environment",
+  "version": "1.0.0",
+  "description": "electron开发环境搭建,具有打包",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build"
+  },
+  "keywords": ["electron开发环境","electron打包"],
+  "author": "wl",
+  "license": "ISC",
+  "dependencies": {
+    "electron":"^1.7.9",
+    "electron-packager": "^9.1.0",
+    "electron-prebuilt-compile": "^1.7.9"
+  }
+}
