@@ -13,8 +13,7 @@
             "windows": {
                 "runtimeExecutable": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\electron.cmd"
             },
-            "program": "${workspaceFolder}/app/main.js"
-            //"protocol": "legacy"
+            "program": "${workspaceFolder}/main"
         }
     ]
 }
